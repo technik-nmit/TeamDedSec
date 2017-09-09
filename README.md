@@ -1,5 +1,6 @@
 # TeamDedSec
 SplitIt app for RVCE Hacks by Team DedSec
+Problem Statement : In a few words, the app is made is such that it allows a group of individuals in keeping track of their group spending on a trip. 
 
 First Commit : Created a new repo and added the project
 
